@@ -1,3 +1,9 @@
+---
+name: Enhancement
+about: ta da da
+
+---
+
 # Enhancement
 
 Hello there, this is enhancement PR template

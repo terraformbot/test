@@ -1,3 +1,9 @@
+---
+name: ❓ Question
+about: tadada
+
+---
+
 # Question
 
 Hello there, this is question issue template

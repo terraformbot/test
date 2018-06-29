@@ -1,3 +1,9 @@
+---
+name: Feature Request
+about: bololo
+
+---
+
 # Feature Request
 
 Hello there, this is feature request issue template

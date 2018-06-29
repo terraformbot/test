@@ -1,3 +1,9 @@
+---
+name: Feature
+about: bla blah
+
+---
+
 # Feature
 
 Hello there, this is feature PR template
