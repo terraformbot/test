@@ -6,9 +6,9 @@ contact_links:
   - name: Terraform Language or Workflow Feedback and Questions
     url: https://github.com/hashicorp/terraform/issues/new/choose
     about: Terraform Core has its own repository, any language (HCL) or workflow related issues or questions should be directed there.
-  - name: Plugin SDK Questions
+  - name: ❓ Plugin SDK Questions
     url: https://discuss.hashicorp.com/c/terraform-providers/tf-plugin-sdk
     about: Please ask and answer SDK related questions through the Plugin SDK Community Forum.
-  - name: Security Vulnerability
+  - name: 🔓 Security Vulnerability
     url: https://www.hashicorp.com/security.html
     about: Please report security vulnerabilities responsibly.
